@@ -1,0 +1,2 @@
+# DeveloperMid
+My proje
